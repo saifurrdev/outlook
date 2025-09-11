@@ -1,0 +1,6 @@
+threads: 5                                           # THREADS Amount
+solver: "CAPSOLVER"                                           # CAPSOLVER 
+, CAPBYPASS
+capKey: 
+"CAP-BF3A913B93C1406DB8D4772118D2E44694DF0EB9DD657FF38C5A5C30712159C7"                                           
+# CAPTCHA KEY  
